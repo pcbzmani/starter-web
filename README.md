@@ -11,4 +11,4 @@ Sample website with plenty of files for demos
 Adding deployement section for testing regions.
 
 
-@2020
+Copyrights@2020
