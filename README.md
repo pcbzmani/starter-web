@@ -11,4 +11,4 @@ Sample website with plenty of files for demos
 Adding deployement section for testing regions.
 
 
-Copyrights@2020@pcbzmani
+Copyrights@2020-pcbzmani
